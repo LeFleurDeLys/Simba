@@ -15,4 +15,4 @@
 
 
 # Bonus Feature
-1. Type in any NPC name in the keyword search to gather and modify the info currently saved in our assets about an npc if desired
+1. Type in any NPC name in the keyword search to gather and modify the info currently saved in our assets about the npc
