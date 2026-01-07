@@ -12,3 +12,7 @@
 2. Run the executable or the equivalent Python script from your Simba folder
 3. Click buttons 1, 2, 3, 4 in order
 4. Use restore buttons if you need to update or whatever
+
+
+# Bonus Feature
+1. Type in any NPC name in the keyword search to gather and modify the info currently saved in our assets about an npc if desired
